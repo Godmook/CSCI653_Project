@@ -1,4 +1,4 @@
-# CSCI653 — Scalable & Communication-Efficient Distributed Vision Training
+# CSCI653 — Scalable & Communication-Efficient Distributed Vision Training - Doing with Dahye Hong
 
 A project that applies **hybrid parallelism** (DP × TP/PP) and **communication optimizations** (overlap, gradient compression, optimizer sharding) to efficiently train large-scale vision models (e.g., ViT) on multi-GPU/multi-node systems, and compares the approaches.
 

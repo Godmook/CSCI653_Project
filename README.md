@@ -30,7 +30,7 @@ GPU profiling on A100 (40/80GB) reveals:
 - Latency rises sharply due to **VRAM cliff**
 - Scheduling must respect a **Vector Bin Packing constraint**
 
-
+![VRAM Cliff Profile](https://github.com/Godmook/CSCI653_Project/blob/3e461e41732d0dedffc594af20e3ab474a3635e1/cliff_2d.png?raw=true)
 
 ---
 
